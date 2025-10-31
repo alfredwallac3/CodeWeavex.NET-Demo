@@ -1,5 +1,7 @@
 # CodeWeavex.NET — Demo Edition
 
+<img width="1269" height="717" alt="image" src="https://github.com/user-attachments/assets/4ba4946e-6ad2-40c9-b8f4-199d3574f4a3" />
+
 **CodeWeavex** synchronizes SQL Server database schemas with C# model classes.  
 It compares both structures, detects differences, and generates safe SQL scripts to keep your database fully aligned with your code.  
 Includes metadata handling, JSON/XML schema export, HTML reporting, and full constraint synchronization.
@@ -81,4 +83,3 @@ All rights reserved © 2025 FZC.
 Redistribution, modification, or commercial use without explicit consent is prohibited.
 
 
-<img width="1876" height="714" alt="image" src="https://github.com/user-attachments/assets/37f21650-2e72-4a29-8b78-db620490b421" />
