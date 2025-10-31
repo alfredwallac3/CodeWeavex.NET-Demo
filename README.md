@@ -18,7 +18,7 @@ It is provided for testing and feedback purposes.
 The goal is to gather user impressions and improve the final product before releasing the **Full (commercial) Edition**.
 
 ### 🔒 Limitations in this demo
-- Maximum of **2 tables** can be synchronized  
+- Maximum of **3 tables** can be synchronized  
 - **Record deletion** is disabled  
 
 All other features are fully functional.
