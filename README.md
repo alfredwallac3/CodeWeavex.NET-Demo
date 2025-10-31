@@ -59,11 +59,11 @@ Run the sample, explore the generated SQL and reports, and see how CodeWeavex au
 
 ## 🧰 Getting Started
 
-1. **Clone this repository** or download the latest ZIP from the [Releases](../../releases) section  
+1. Download the latest ZIP from the [Releases](../../releases) section  
 2. The repository includes the full source code of the **Sample** program, showing how to use CodeWeavex  
 3. The **CodeWeavex.Core.dll** (Demo Edition) is provided as a precompiled binary  
 4. Open the solution in **Visual Studio 2022**  
-5. Run the **CodeWeavex.Sample** project to explore schema synchronization, record creation, and updates  
+5. Read and run the **CodeWeavex.Sample** project to explore schema synchronization, record creation, and updates  
 
 ---
 
