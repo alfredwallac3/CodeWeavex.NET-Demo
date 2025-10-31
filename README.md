@@ -22,8 +22,6 @@ All other features are fully functional.
 
 ## 🚀 What CodeWeavex Does
 
-## 🚀 What CodeWeavex Does
-
 1. Reads your database model from C# classes using attributes such as `[FieldMetadata]` and `[IndexMetadata]`  
 2. Reads the actual structure directly from SQL Server  
 3. Compares both schemas and identifies all structural differences (tables, columns, keys, indexes, constraints)  
@@ -49,7 +47,8 @@ Run the sample, explore the generated SQL and reports, and see how CodeWeavex au
 
 - **.NET 8.0**  
 - **SQL Server 2016** or newer  
-- **Windows 10+** (recommended for the sample)
+- **Windows 10+**
+- **Microsoft SQL Server (any edition) **
 
 ---
 
@@ -60,7 +59,6 @@ Run the sample, explore the generated SQL and reports, and see how CodeWeavex au
 3. The **CodeWeavex.Core.dll** (Demo Edition) is provided as a precompiled binary  
 4. Open the solution in **Visual Studio 2022**  
 5. Run the **CodeWeavex.Sample** project to explore schema synchronization, record creation, and updates  
-6. All generated files (reports, exports) are written under `C:\Temp\`
 
 ---
 
