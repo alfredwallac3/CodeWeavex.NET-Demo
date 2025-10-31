@@ -48,7 +48,7 @@ Run the sample, explore the generated SQL and reports, and see how CodeWeavex au
 - **.NET 8.0**  
 - **SQL Server 2016** or newer  
 - **Windows 10+**
-- **Microsoft SQL Server (any edition) **
+- **Microsoft SQL Server (any edition)** 
 
 ---
 
