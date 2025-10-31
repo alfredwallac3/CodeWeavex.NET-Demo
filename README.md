@@ -79,3 +79,6 @@ If you find issues or have suggestions, please open a GitHub issue or share your
 CodeWeavex is proprietary software.  
 All rights reserved © 2025 FZC.  
 Redistribution, modification, or commercial use without explicit consent is prohibited.
+
+
+<img width="1876" height="714" alt="image" src="https://github.com/user-attachments/assets/37f21650-2e72-4a29-8b78-db620490b421" />
